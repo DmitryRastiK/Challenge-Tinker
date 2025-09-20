@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,6 +172,8 @@
   },
   "active": "cc942887d828d9f2",
   "lastOpenFiles": [
+    "daily",
+    "Legs.md",
     "attachments/PXL_20250920_125401790.MP.jpg",
     "attachments/PXL_20250920_100149128.MP.jpg"
   ]

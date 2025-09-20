@@ -2,6 +2,40 @@
 # Центральная часть (туловище)
 
 ### Детали
+
+
+## ⚙️ Базовая  конфигурация  
+- **Router Name**: `Tinker-2.4G-ID`  
+- **Password**: `11111111`  
+
+### 🔩 Motor Configuration  
+
+#### **Left Leg (STM32 CAN1)**  
+| Joint      | Motor Type | CAN ID |
+|------------|------------|--------|
+| Yaw        | 6006       | 1      |
+| Roll       | 8006       | 2      |
+| Thigh      | 8006       | 3      |
+| Shin       | 8006       | 4      |
+| Foot       | 6006       | 5      |
+
+#### **Right Leg (STM32 CAN2)**  
+| Joint | Motor Type | CAN ID |
+| ----- | ---------- | ------ |
+| Yaw   | 6006       | 1      |
+| Roll  | 8006       | 2      |
+| Thigh | 8006       | 3      |
+| Shin  | 8006       | 4      |
+| Foot  | 6006       | 5      |
+
+#### **Head (STM32 CAN1)**  
+| Joint          | Motor Type | CAN ID |
+|---------------|------------|--------|
+| Head Yaw      | 3507       | 6      |
+| Head Pitch    | 3507       | 7      |
+
+
+
 6 больших моторов
 4 маленьких 
 спаенная плата
