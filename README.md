@@ -1,12 +1,7 @@
-торс 
 
+# Центральная часть (туловище)
 
-[https://github.com/Yuexuan9/Tinker](https://github.com/Yuexuan9/Tinker) [https://github.com/golaced/OmniBotSeries-Tinker](https://github.com/golaced/OmniBotSeries-Tinker) v2 [https://github.com/opensourcerobot/Alpha_Human_gym](https://github.com/opensourcerobot/Alpha_Human_gym) v3
-
-
-[https://github.com/EgorSolodnikov/Tinker_Sber/tree/spi_communicator](https://github.com/EgorSolodnikov/Tinker_Sber/tree/spi_communicator)
-
-
+### Детали
 6 больших моторов
 4 маленьких 
 спаенная плата
@@ -15,21 +10,20 @@
 # Тазобедренный сустав
 
 
-
-+ два мотора DM-J6006-2EC
-<img src="https://github.com/Yuexuan9/Tinker/raw/main/docs/images/assemble/20250401-5.png" width="300" /> 
-<img src="https://github.com/Yuexuan9/Tinker/raw/main/docs/images/assemble/20250401-6.png" width="300" /> 
-
++ Устанавливка двх мотора DM-J6006-2EC на центральную пластину
+ <img src="https://github.com/Yuexuan9/Tinker/raw/main/docs/images/assemble/20250401-5.png" width="300" /> 
 
 Максимальная длина болтов для моторов - 5мм
-
-![[Pasted image 20250920124744.png]]
-
-![[Pasted image 20250920125455.png]]
-
 ![[Pasted image 20250920125616 1.png]]
 
-Добавляем боковые крепления
++ Установка крепёжей под большие моторы 
+Максимальная длина болтов для моторов - 5мм
+![[Pasted image 20250920124744.png]]
+
+Подготовленный крепёж под установку больших моторов
+![[Pasted image 20250920125455.png]]
+
++ Установка боковых частей каркаса
 
 ![[Pasted image 20250920130602.png]]
 
@@ -39,7 +33,7 @@
 ![[Pasted image 20250920131205.png]]
 
 
-* Крышка (крупные мотор моно снять после примерки и установить позжде)
+* Крышка (крупные мотор можно снять после примерки и установить позжде)
 ![[PXL_20250920_103404860.jpg]]
 инспользвать такие крепёжные элементы
 ![[PXL_20250920_103600140.jpg]]
@@ -56,10 +50,32 @@
 ![[PXL_20250920_120958913.jpg]]
 
 + установка упоров - сидение робота
-по хорошему должен устанавливаться на вплавляемые гайки 
-
+по хорошему должены устанавливаться на вплавляемые гайки 
 
 ![[Pasted image 20250920152040.png]]
+
++ установка ног
+ноги прикручиваются к большим моторам
+ ![[PXL_20250920_121235937.MP.jpg]]
+
+крышка передней части туловища робота обозначена как "крышка"
+левая и правая ноша крепятся одинаково (симетрично)
+![[PXL_20250920_125401790.MP.jpg]]
+Установленные в крепление моторы выглядят так:
+![[PXL_20250920_100149128.MP.jpg]]
+
+# Ноги
+
+ 
+
+
+#### Ссылки:
+[https://github.com/Yuexuan9/Tinker](https://github.com/Yuexuan9/Tinker) 
+[https://github.com/golaced/OmniBotSeries-Tinker](https://github.com/golaced/OmniBotSeries-Tinker) v2 [https://github.com/opensourcerobot/Alpha_Human_gym](https://github.com/opensourcerobot/Alpha_Human_gym) v3
+[https://github.com/EgorSolodnikov/Tinker_Sber/tree/spi_communicator](https://github.com/EgorSolodnikov/Tinker_Sber/tree/spi_communicator)
+
+
+
 
 
 #Tinker Assembly Guide  
