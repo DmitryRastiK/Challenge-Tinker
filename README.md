@@ -5,7 +5,7 @@
 6 больших моторов
 4 маленьких 
 спаенная плата
-![[PXL_20250920_114713285.MP.jpg]]
+<img src="attachments/PXL_20250920_114713285.MP.jpg" width="300" />
 
 # Тазобедренный сустав
 
@@ -14,55 +14,55 @@
  <img src="https://github.com/Yuexuan9/Tinker/raw/main/docs/images/assemble/20250401-5.png" width="300" /> 
 
 Максимальная длина болтов для моторов - 5мм
-![[Pasted image 20250920125616 1.png]]
+<img src="attachments/Pasted image 20250920125616 1.png" width="300" />
 
 + Установка крепёжей под большие моторы 
 Максимальная длина болтов для моторов - 5мм
-![[Pasted image 20250920124744.png]]
+<img src="attachments/Pasted image 20250920124744.png" width="300" />
 
 Подготовленный крепёж под установку больших моторов
-![[Pasted image 20250920125455.png]]
+<img src="attachments/Pasted image 20250920125455.png" width="300" />
 
 + Установка боковых частей каркаса
 
-![[Pasted image 20250920130602.png]]
+<img src="attachments/Pasted image 20250920130602.png" width="300" />
 
 
-![[Pasted image 20250920131008.png]]
+<img src="attachments/Pasted image 20250920131008.png" width="300" />
 
-![[Pasted image 20250920131205.png]]
+<img src="attachments/Pasted image 20250920131205.png" width="300" />
 
 
 * Крышка (крупные мотор можно снять после примерки и установить позжде)
-![[PXL_20250920_103404860.jpg]]
+<img src="attachments/PXL_20250920_103404860.jpg" width="300" />
 инспользвать такие крепёжные элементы
-![[PXL_20250920_103600140.jpg]]
+<img src="attachments/PXL_20250920_103600140.jpg" width="300" />
 
-![[PXL_20250920_103612062.MP.jpg]]
+<img src="attachments/PXL_20250920_103612062.MP.jpg" width="300" />
 
 
 
 + устанавливаем ручку
-![[PXL_20250920_105009801.jpg]]
+<img src="attachments/PXL_20250920_105009801.jpg" width="300" />
 
 ручка прикручивается снизу
 
-![[PXL_20250920_120958913.jpg]]
+<img src="attachments/PXL_20250920_120958913.jpg" width="300" />
 
 + установка упоров - сидение робота
 по хорошему должены устанавливаться на вплавляемые гайки 
 
-![[Pasted image 20250920152040.png]]
+<img src="attachments/Pasted image 20250920152040.png" width="300" />
 
 + установка ног
 ноги прикручиваются к большим моторам
- ![[PXL_20250920_121235937.MP.jpg]]
+<img src="attachments/PXL_20250920_121235937.MP.jpg" width="300" />
 
 крышка передней части туловища робота обозначена как "крышка"
 левая и правая ноша крепятся одинаково (симетрично)
-![[PXL_20250920_125401790.MP.jpg]]
+<img src="attachments/PXL_20250920_125401790.MP.jpg" width="300" />
 Установленные в крепление моторы выглядят так:
-![[PXL_20250920_100149128.MP.jpg]]
+<img src="attachments/PXL_20250920_100149128.MP.jpg" width="300" />
 
 # Ноги
 
