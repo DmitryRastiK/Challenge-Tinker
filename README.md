@@ -63,6 +63,32 @@ If RViz does not auto-load a config, it will still bring up the model. You can s
 
 ---
 
+## Networked setup (Raspberry Pi + Laptop)
+
+If you run the motor node on a Raspberry Pi and RViz on a laptop, ensure both machines use the same ROS 2 domain.
+
+- Both machines must have the same `ROS_DOMAIN_ID`.
+- Do this in every terminal (or add to your shell profile) on both machines:
+
+```bash
+export ROS_DOMAIN_ID=7   # pick any number 0-232; must match on both
+```
+
+Optional: persist this setting
+```bash
+echo 'export ROS_DOMAIN_ID=7' >> ~/.bashrc
+```
+
+Then (on each machine) source ROS and your workspace before running nodes:
+```bash
+source /opt/ros/jazzy/setup.bash
+source ~/ws/install/setup.bash
+```
+
+Now start the motor node on the Pi and RViz on the laptop as described above.
+
+---
+
 ## ROS 2 packages overview
 
 - `hardware_msg`
