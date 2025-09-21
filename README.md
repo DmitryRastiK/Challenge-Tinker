@@ -4,8 +4,8 @@ This is result of 20.09.2025 Hackaton in MIREA about Tinker robot.
 This repo contains solution of 🐧 (penguin) team (2 track):
 - https://github.com/kaizer-nurik
 - https://github.com/pendragon707
+- https://github.com/Dexly4 ?
 - Artem
-- Egor
 - Mike
 
 High-performance motor control and visualization stack for the Tinker robot, built on ROS 2 Jazzy. This repository contains the robot description (URDF), RViz visualization, and a real-time motor control node. Contact @USSRnurik (telegram) if support is needed.
